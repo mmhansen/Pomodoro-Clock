@@ -1,0 +1,616 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"computer"
+			],
+			[
+				"get",
+				"getRandom"
+			],
+			[
+				"chec",
+				"checkSpaceOccupied"
+			],
+			[
+				"ran",
+				"randomIn9"
+			],
+			[
+				"user",
+				"userMoves"
+			],
+			[
+				"use",
+				"userMoves"
+			],
+			[
+				"cli",
+				"clicked"
+			],
+			[
+				"padd",
+				"padding-bottom: "
+			],
+			[
+				"padding",
+				"padding-top: "
+			],
+			[
+				"mar",
+				"margin: "
+			],
+			[
+				"border",
+				"border-bottom: "
+			],
+			[
+				"marg",
+				"margin-bottom: "
+			],
+			[
+				"argin",
+				"margin-bottom: "
+			],
+			[
+				"margi",
+				"margin-top: "
+			],
+			[
+				"margin",
+				"margin-top: "
+			],
+			[
+				"random",
+				"randomIn5"
+			],
+			[
+				"col",
+				"colorize"
+			],
+			[
+				"font-",
+				"font-size: "
+			],
+			[
+				"re",
+				"restartClock"
+			],
+			[
+				"is",
+				"isBreak"
+			],
+			[
+				"pa",
+				"pauseClock"
+			],
+			[
+				"start",
+				"startClock"
+			],
+			[
+				"animation-",
+				"animation-fill-mode: "
+			],
+			[
+				"an",
+				"animation-iteration-count: "
+			],
+			[
+				"work",
+				"work"
+			],
+			[
+				"add",
+				"addSessionTime"
+			],
+			[
+				"Sub",
+				"subSessionTime"
+			],
+			[
+				"Break",
+				"Break-Sub"
+			],
+			[
+				"text",
+				"text-align: "
+			],
+			[
+				"fon",
+				"font-size: "
+			],
+			[
+				"styl",
+				"styles"
+			],
+			[
+				"con",
+				"content-stream"
+			],
+			[
+				"s",
+				"searchResults"
+			],
+			[
+				"channel",
+				"channel"
+			],
+			[
+				"di",
+				"displayName"
+			],
+			[
+				"sera",
+				"searchTerm"
+			],
+			[
+				"sear",
+				"searchTerm"
+			],
+			[
+				"sea",
+				"Search"
+			],
+			[
+				"trim",
+				"trimStatus"
+			],
+			[
+				"result",
+				"resultsTrue"
+			],
+			[
+				"search",
+				"searchItem"
+			],
+			[
+				"show",
+				"showError"
+			],
+			[
+				"red",
+				"red400"
+			],
+			[
+				"se",
+				"selectedFeeling"
+			],
+			[
+				"max-",
+				"max-width: "
+			],
+			[
+				"min-",
+				"min-width: "
+			],
+			[
+				"box",
+				"box-sizing: "
+			],
+			[
+				"red5",
+				"red50"
+			],
+			[
+				"j",
+				"json"
+			],
+			[
+				"json",
+				"getJSON"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"ai",
+				"aiPiece"
+			],
+			[
+				"check",
+				"checkWin"
+			],
+			[
+				"AI",
+				"AIchar"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"tabl",
+				"table"
+			],
+			[
+				"table",
+				"table-column"
+			],
+			[
+				"magin",
+				"margin-top"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"grea",
+				"greaterThan100"
+			],
+			[
+				"great",
+				"greaterThan"
+			],
+			[
+				"greater",
+				"greaterThan10"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"discover",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/michael/mmhansen.github.io/index.html",
+		"/home/michael/Projects/Tic-Tac-Toe/js/scripts.js",
+		"/home/michael/Projects/Tic-Tac-Toe/styles/scss/styles.scss",
+		"/home/michael/Projects/Tic-Tac-Toe/index.html",
+		"/home/michael/mmhansen.github.io/.git/COMMIT_EDITMSG",
+		"/home/michael/mmhansen.github.io/js/scripts.js",
+		"/home/michael/mmhansen.github.io/styles/scss/styles.scss",
+		"/home/michael/Projects/Pomodoro-Clock/styles/scss/styles.scss",
+		"/home/michael/Projects/Pomodoro-Clock/js/scripts.js",
+		"/home/michael/Projects/Pomodoro-Clock/index.html",
+		"/home/michael/Projects/CreateTv/scss/styles.scss",
+		"/home/michael/.bashrc",
+		"/home/michael/git-completion.bash",
+		"/home/michael/git-prompt.sh",
+		"/home/michael/Projects/Boilerplate/web-starter-kit-0.6.4/app/index.html",
+		"/home/michael/Projects/TicTacToe/js/scripts.js",
+		"/home/michael/Projects/TicTacToe/scss/styles.scss",
+		"/home/michael/Projects/TicTacToe/index.html",
+		"/home/michael/Projects/Boilerplate/MDL/package.json",
+		"/home/michael/Projects/WeatherApp/final/scripts/app.js",
+		"/home/michael/Projects/WeatherApp/step-03/scripts/app.js",
+		"/home/michael/Projects/WeatherApp/step-03/index.html",
+		"/home/michael/Projects/WeatherApp/step-03/service-worker.js",
+		"/home/michael/Projects/WeatherApp/resources/inline.scss",
+		"/home/michael/Projects/WeatherApp/step-03/styles/inline.css",
+		"/home/michael/Projects/Boilerplate/Sample/index.html",
+		"/home/michael/Downloads/final/index.html",
+		"/home/michael/Downloads/New Folder/index.html",
+		"/home/michael/Projects/WeatherApp/step-02/index.html",
+		"/home/michael/Projects/WeatherApp/final/index.html",
+		"/home/michael/Projects/WeatherApp/step-02/styles/inline.css",
+		"/home/michael/Projects/WeatherApp/final/styles/inline.css",
+		"/home/michael/Projects/WeatherApp/Responsive-WeatherApp/styles/inline.css",
+		"/home/michael/Projects/WeatherApp/Responsive-WeatherApp/index.html",
+		"/home/michael/Projects/WeatherApp/Responsive-WeatherApp/app.js",
+		"/home/michael/Projects/WeatherApp/resources/step-celebrate/inline.min.css",
+		"/home/michael/Projects/WeatherApp/final/service-worker.js",
+		"/home/michael/Projects/WeatherApp/final/manifest.json",
+		"/home/michael/Projects/web-starter-kit-0.6.4/app/basic.html",
+		"/home/michael/Projects/web-starter-kit-0.6.4/README.md",
+		"/home/michael/Projects/web-starter-kit-0.6.4/app/robots.txt",
+		"/home/michael/Projects/web-starter-kit-0.6.4/app/humans.txt",
+		"/home/michael/Projects/CreateTv/js/scripts.js",
+		"/home/michael/Projects/CreateTv/index.html",
+		"/home/michael/.cache/.fr-524EAm/web-starter-kit-0.6.4/app/styles/main.css",
+		"/home/michael/Projects/WikiLook/scss/content.scss",
+		"/home/michael/Projects/WikiLook/js/scripts.js",
+		"/home/michael/Projects/WikiLook/index.html",
+		"/home/michael/Projects/WikiLook/css/styles.css",
+		"/home/michael/Projects/WikiLook/scss/styles.scss",
+		"/home/michael/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/michael/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/michael/Projects/WikiLook/css/styles.css.map",
+		"/home/michael/Projects/WikiLook/css/styles.scss",
+		"/home/michael/Projects/Sample/css/styles.scss",
+		"/home/michael/Projects/Sample (copy 1)/index.html",
+		"/home/michael/Projects/Sample/css/styles.css",
+		"/home/michael/Projects/Sample/js/scripts.js",
+		"/home/michael/Projects/Sample/index.html",
+		"/home/michael/Documents/Projects/FCC projects/TicTacToe/index.html",
+		"/home/michael/Projects/js/scripts.js",
+		"/home/michael/Projects/index.html",
+		"/home/michael/Projects/styles.css",
+		"/home/michael/Udacity/JS-basic/frontend-nanodegree-resume/js/resumeBuilder.js",
+		"/home/michael/Udacity/JS-basic/frontend-nanodegree-resume/index.html",
+		"/home/michael/version-control/reflections/.git/COMMIT_EDITMSG",
+		"/home/michael/version-control/reflections/lession_1_reflections.txt",
+		"/home/michael/Downloads/bash_profile_course",
+		"/home/michael/.bash_profile",
+		"/home/michael/Documents/Projects/FCC projects/Twitch Programming Streams/css/styles.css",
+		"/home/michael/Documents/Projects/FCC projects/Twitch Programming Streams/js/scripts.js",
+		"/home/michael/Documents/Projects/FCC projects/Twitch Programming Streams/index.html",
+		"/home/michael/Documents/Projects/FCC projects/JS-calculator/index.html",
+		"/home/michael/Documents/Projects/FCC projects/TicTacToe/js/scripts.js",
+		"/home/michael/Documents/Projects/FCC projects/TicTacToe/css/styles.css",
+		"/home/michael/Documents/Projects/Portfolio/index.html",
+		"/home/michael/Documents/Projects/FCC projects/TicTacToe/styles.css",
+		"/home/michael/Documents/Projects/FCC projects/TicTacToe/scripts.js",
+		"/home/michael/Documents/Projects/27/css/style.css",
+		"/home/michael/Documents/Projects/27/js/jquery.magnific-popup.min.js",
+		"/home/michael/Documents/Projects/27/js/jquery.js",
+		"/home/michael/Documents/Projects/27/js/html5shiv.js",
+		"/home/michael/Documents/Projects/27/js/bootstrap.min.js",
+		"/home/michael/Documents/Projects/27/credits.txt",
+		"/home/michael/Documents/Projects/27/license.txt",
+		"/home/michael/Documents/Projects/27/css/font-awesome.min.css",
+		"/home/michael/Documents/Projects/Twitch Programming Streams/index.html",
+		"/home/michael/Documents/Projects/JS-calculator/index.html",
+		"/home/michael/Documents/Projects/index.html",
+		"/home/michael/Documents/Projects/27/index.html",
+		"/home/michael/Documents/Projects/ResumeF/style.css",
+		"/home/michael/Documents/Projects/ResumeF/icons.css",
+		"/home/michael/Documents/Projects/ResumeF/scripts.js",
+		"/home/michael/Documents/Projects/ResumeF/index.html",
+		"/home/michael/Documents/Projects/Resume/styles.css",
+		"/home/michael/Documents/Projects/Resume/elegant.html",
+		"/home/michael/Documents/Projects/ResumeF/json.js",
+		"/home/michael/resume.json",
+		"/home/michael/Documents/Projects/Resume/index.html",
+		"/home/michael/Documents/Projects/Resume/scripts.js",
+		"/usr/lib/node_modules/resume-cli/test/index.js",
+		"/usr/lib/node_modules/resume-cli/package.json",
+		"/usr/lib/node_modules/resume-cli/index.js",
+		"/usr/lib/node_modules/resume-cli/README.md",
+		"/home/michael/Downloads/resume.json",
+		"/home/michael/Documents/Projects/Resume/resume.json",
+		"/home/michael/Documents/Projects/Resume/jquery-autobars.js",
+		"/home/michael/Documents/Projects/Resume/boilerplate.hbs",
+		"/home/michael/Documents/Projects/Resume/boilerplate.css",
+		"/home/michael/Documents/Projects/JS-calculator/scripts.js",
+		"/home/michael/Documents/Projects/JS-calculator/styles.css",
+		"/home/michael/Documents/Projects/WeatherApp/index.html",
+		"/home/michael/Documents/Projects/JS calculator/styles.css",
+		"/home/michael/Documents/Projects/JS calculator/scripts.js",
+		"/home/michael/Documents/Projects/trash.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"click",
+			"light-green",
+			"html",
+			"text",
+			"work",
+			"red",
+			"minus",
+			"color",
+			"url",
+			"Auto",
+			"search",
+			"resultsTrue",
+			"content",
+			"20",
+			"yellow",
+			"		\n",
+			"email",
+			"submit",
+			"@",
+			"form",
+			"clearfix",
+			"info",
+			"hr",
+			"text-mu",
+			"text-mut",
+			"text",
+			"text-mut",
+			"card",
+			"affix",
+			"card wrapper",
+			"profile",
+			"Beginner",
+			"Intermediate",
+			"Beginner",
+			"Master",
+			"master",
+			"Master",
+			"master",
+			"display",
+			"md",
+			"on",
+			"click",
+			"<div class=\"display\"></div>",
+			"xs",
+			"md",
+			"relative",
+			"xs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"DOCTYPdoctype"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "scripts.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

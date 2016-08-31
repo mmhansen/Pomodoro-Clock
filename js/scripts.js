@@ -43,11 +43,9 @@ $('#Restart').click(function(){
 	app.restartClock();
 })
 $('#fab').mouseenter(function(){
-	$('h4').css("visibility", "visible");
 	$('#start').css("visibility", "hidden");
 })
 $('#fab').mouseleave(function(){
-	$('h4').removeAttr("style");
 	$('#start').removeAttr("style");
 })
 /////////
