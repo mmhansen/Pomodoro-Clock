@@ -12,6 +12,8 @@
 
 .card-content {
   padding: 10px !important; }
+  .card-content a:hover {
+    cursor: pointer; }
   .card-content .work {
     position: relative; }
     .card-content .work h1 {
@@ -19,13 +21,16 @@
       padding: 0;
       padding-top: 20px;
       padding-bottom: 20px;
-      display: inline-block; }
+      display: inline-block;
+      font-size: 70px; }
     .card-content .work a {
       display: inline-block;
       margin: 10px;
       color: white;
       border-radius: 100%;
-      opacity: 0.5; }
+      opacity: 0.5;
+      vertical-align: top;
+      padding-top: 35px; }
     .card-content .work #Work-Add {
       padding-bottom: 30px; }
     .card-content .work #Work-Sub {
@@ -35,7 +40,8 @@
     .card-content .break h4 {
       padding: 0;
       margin: 0;
-      padding-bottom: 10px;
+      padding-bottom: 20px;
+      padding-top: 5px;
       display: inline-block; }
     .card-content .break a {
       display: inline-block;
@@ -50,5 +56,8 @@
 
 .btn-floating {
   box-shadow: 0, 0, 0, 0; }
+
+.hide {
+  visibility: hidden; }
 
 /*# sourceMappingURL=styles.css.map */

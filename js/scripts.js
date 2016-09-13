@@ -41,6 +41,10 @@ $('#Break-Sub').click(function(){
 })
 $('#Restart').click(function(){
 	app.restartClock();
+	$('#Work-Add').removeClass("hide");
+	$('#Work-Sub').removeClass("hide");
+	$('#Break-Add').removeClass("hide");
+	$('#Break-Sub').removeClass("hide");
 })
 $('#fab').mouseenter(function(){
 	$('#start').css("visibility", "hidden");
@@ -87,6 +91,12 @@ app.startClock = function(){
 
 		app.update();
 	}, 1000)
+
+	// remove time editing buttons when clock runs
+	$('#Work-Add').addClass("hide");
+	$('#Work-Sub').addClass("hide");
+	$('#Break-Add').addClass("hide");
+	$('#Break-Sub').addClass("hide");
 }
 
 app.pauseClock = function(){

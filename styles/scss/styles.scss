@@ -18,6 +18,11 @@
 .card-content {
 	padding: 10px !important;
 
+	a {
+		&:hover{
+			cursor: pointer;
+		}
+	}
 	& .work {
 		position: relative;
 		& h1 {
@@ -25,7 +30,8 @@
 			padding: 0;
 			padding-top: 20px;
 			padding-bottom: 20px;
-			display: inline-block;	
+			display: inline-block;
+			font-size: 70px;	
 		}
 
 		& a {
@@ -34,6 +40,8 @@
 			color: white;
 			border-radius: 100%;
 			opacity: 0.5;
+			vertical-align: top;
+			padding-top: 35px;
 			
 		}
 
@@ -51,7 +59,8 @@
 		& h4 {
 			padding: 0;
 			margin: 0;	
-			padding-bottom: 10px;
+			padding-bottom: 20px;
+			padding-top: 5px;
 			display: inline-block;	
 		}
 
@@ -81,3 +90,7 @@
 }
 
 
+
+.hide {
+	visibility: hidden;
+}
